@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.0](https://github.com/googleapis/python-analytics-data/compare/v0.10.0...v0.11.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#182](https://github.com/googleapis/python-analytics-data/issues/182)) ([ad51ffd](https://github.com/googleapis/python-analytics-data/commit/ad51ffd1c461663d7ff055b69166004ea5a4d686))
+
 ## [0.10.0](https://www.github.com/googleapis/python-analytics-data/compare/v0.9.0...v0.10.0) (2021-11-01)
 
 
